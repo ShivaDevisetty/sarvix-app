@@ -22,6 +22,7 @@
 ## Contents
 
 - [Why Sarvix Core](#why-sarvix-core)
+- [The name](#the-name)
 - [What it does](#what-it-does)
 - [Getting started](#getting-started)
 - [How to use](#how-to-use)
@@ -36,6 +37,16 @@
 Money and health usually live in two different apps, each with its own login, its own ads and its own idea of what your data is worth. Your health reports end up in one app's cloud, your receipts in another's, and your spending in a spreadsheet.
 
 Sarvix Core puts them in one place, with simple rules: no ads, no tracking, no bank connections, no AI reading your records, and nothing to pay. The files you upload go into **your own** Google Drive, not someone else's server. This repository describes the app for the people who use it; its code isn't published here.
+
+## The name
+
+**Sarvix** is built from three parts:
+
+| Element | Brand interpretation |
+|---|---|
+| **SAR** | Inspired by *Sarvam*, Sanskrit for all or everything |
+| **V** | Vision, versatility, and connectivity |
+| **IX** | Innovation, intelligence, and a futuristic identity |
 
 ## What it does
 
