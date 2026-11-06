@@ -2,7 +2,7 @@
   <img src="assets/sarvix-logo.png" alt="Sarvix Core logo: an orange stag's head" width="140">
 </p>
 
-<h1 align="center">Sarvix Core</h1>
+<h1 align="center">Sarvix Core™</h1>
 
 <p align="center"><b>Your whole world, one tap away.</b></p>
 
@@ -13,7 +13,8 @@
 ![Your Google Drive](https://img.shields.io/badge/your_files-your_Google_Drive-4285F4?logo=googledrive&logoColor=white)
 ![Costs](https://img.shields.io/badge/cost_to_you-%240-16a34a)
 ![No ads](https://img.shields.io/badge/ads_and_tracking-none-ff6a13)
-![MIT licence](https://img.shields.io/badge/licence-MIT-555)
+![MIT licence for the text](https://img.shields.io/badge/text-MIT-555)
+![Name and logo are trademarks](https://img.shields.io/badge/name_%26_logo-trademark%E2%84%A2-555)
 
 [What it does](#what-it-does) · [Getting started](#getting-started) · [How to use](#how-to-use) · [Privacy](#privacy-and-security) · [FAQ](#faq) · [User guide](docs/user-guide.md)
 
@@ -138,4 +139,7 @@ Not here. This repository is the public home of Sarvix Core for its users: what 
 
 ## Licence
 
-[MIT](LICENSE). This repository contains no source code: the licence covers what's here, this README, the user guide and the logo.
+This repository contains no source code.
+
+- **The text** (this README and the user guide) is under the [MIT licence](LICENSE).
+- **The name and the logo are not.** **Sarvix™**, **Sarvix Core™** and the stag logo are trademarks, all rights reserved: you may mention the name to refer to the app, but not use the name or the logo for anything else without permission. See [TRADEMARKS.md](TRADEMARKS.md).
